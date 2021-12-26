@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for lithiyum	</title>
-	<atom:link href="http://lithiyum.me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://lithiyum.me</link>
+	<atom:link href="/http://lithiyum.me/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/http://lithiyum.me</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 16 Dec 2021 14:52:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://lithiyum.me/2021/12/16/hello-world/#comment-1</link>
+		<link>/http://lithiyum.me/2021/12/16/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 16 Dec 2021 14:52:30 +0000</pubDate>
