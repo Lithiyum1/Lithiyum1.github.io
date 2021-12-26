@@ -12,7 +12,7 @@
 	<atom:link href="http://lithiyum.me/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>http://lithiyum.me</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 26 Dec 2021 15:31:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Dec 2021 15:52:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 					<description><![CDATA[F.R.I.E.N.D.S Friends is, in my opinion, the best sitcom of all time. I absolutely adore it, and whenever I replay Friends, it always makes me cry. Friends is one of my favorite shows since it truly perfected the sitcom format. It wasn&#8217;t as inventive as Seinfeld, but it mastered the sitcom structure in my opinion. &#8230;<p class="read-more"> <a class="" href="http://lithiyum.me/2021/12/26/f-r-i-e-n-d-s/"> <span class="screen-reader-text">F.R.I.E.N.D.S</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="146" class="elementor elementor-146" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-02cb8d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="02cb8d7" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-02cb8d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="02cb8d7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e4c051" data-id="2e4c051" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -43,7 +43,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f0185b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f0185b" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f0185b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f0185b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b51aee8" data-id="b51aee8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -55,7 +55,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2cbae73 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cbae73" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2cbae73 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cbae73" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-36f7943" data-id="36f7943" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -67,7 +67,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9fe39b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9fe39b4" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9fe39b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9fe39b4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cc69276" data-id="cc69276" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -79,7 +79,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d9638d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d9638d7" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d9638d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d9638d7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3033cc1" data-id="3033cc1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -91,7 +91,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-12311ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="12311ca" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-12311ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="12311ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-873ba1b" data-id="873ba1b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -103,7 +103,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b8259bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b8259bb" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b8259bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b8259bb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-938ecbb" data-id="938ecbb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -115,7 +115,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a77e206 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a77e206" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a77e206 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a77e206" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f68652c" data-id="f68652c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -127,7 +127,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-87495ef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="87495ef" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-87495ef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="87495ef" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6c4a4da" data-id="6c4a4da" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -139,7 +139,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-0d949a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d949a7" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0d949a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d949a7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9cdcb9b" data-id="9cdcb9b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -151,7 +151,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-0221859 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0221859" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0221859 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0221859" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bc5febd" data-id="bc5febd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -163,7 +163,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-44656d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="44656d9" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-44656d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="44656d9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b581e72" data-id="b581e72" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -175,7 +175,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1664ca8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1664ca8" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1664ca8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1664ca8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7da4e31" data-id="7da4e31" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -187,7 +187,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7533046 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7533046" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7533046 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7533046" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b27b29" data-id="3b27b29" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -199,7 +199,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ec6599d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ec6599d" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ec6599d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ec6599d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1442ef8" data-id="1442ef8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -211,7 +211,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-cbe7d13 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbe7d13" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cbe7d13 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbe7d13" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e6e326" data-id="2e6e326" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -223,7 +223,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c9a67b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c9a67b6" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c9a67b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c9a67b6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70bfe1d" data-id="70bfe1d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -235,7 +235,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ab30255 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab30255" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ab30255 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab30255" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b4aac2c" data-id="b4aac2c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -247,7 +247,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2c75462 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c75462" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2c75462 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c75462" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e59c5d8" data-id="e59c5d8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -259,7 +259,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-82e3719 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82e3719" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-82e3719 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82e3719" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98f199a" data-id="98f199a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -302,7 +302,7 @@
 					<description><![CDATA[Best Android Apps I Have Used The best Android apps include a social media giant, a video editor and a game streaming service. Tik Tok TikTok is a social video app that allows you to make short movies while lip-syncing, dancing to tunes, or talking about something you&#8217;re passionate about. During the early months of &#8230;<p class="read-more"> <a class="" href="http://lithiyum.me/2021/12/26/best-android-apps-i-have-used/"> <span class="screen-reader-text">Best Android Apps I have Used</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="111" class="elementor elementor-111" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-2d092be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d092be" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2d092be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d092be" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3fc0229" data-id="3fc0229" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -314,7 +314,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-925c845 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="925c845" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-925c845 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="925c845" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49bb909" data-id="49bb909" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -326,7 +326,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-af39ac2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af39ac2" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-af39ac2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af39ac2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8974a33" data-id="8974a33" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -338,7 +338,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9f5a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9f5a" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9f5a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9f5a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ccc5c91" data-id="ccc5c91" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -350,7 +350,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f0135f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f0135f5" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f0135f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f0135f5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85b6a0b" data-id="85b6a0b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -362,7 +362,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-bd15add elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd15add" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bd15add elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd15add" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f2806f" data-id="5f2806f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -374,7 +374,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b18b25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b18b25" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b18b25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b18b25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0616076" data-id="0616076" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -386,7 +386,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-fe895ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe895ce" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fe895ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe895ce" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79e1957" data-id="79e1957" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -398,7 +398,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f5b8e6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f5b8e6d" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f5b8e6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f5b8e6d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-04d860d" data-id="04d860d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -410,7 +410,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3c1f8b1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c1f8b1" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3c1f8b1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c1f8b1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f01f36b" data-id="f01f36b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -422,7 +422,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b713603 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b713603" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b713603 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b713603" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ba564aa" data-id="ba564aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -434,7 +434,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c0dbd0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0dbd0e" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c0dbd0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0dbd0e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e1f389d" data-id="e1f389d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -446,7 +446,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-779c7b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="779c7b8" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-779c7b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="779c7b8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c684200" data-id="c684200" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -458,7 +458,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c68ca03 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c68ca03" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c68ca03 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c68ca03" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b17ad5" data-id="7b17ad5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -470,7 +470,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e881ede elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e881ede" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e881ede elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e881ede" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-00cd366" data-id="00cd366" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -482,7 +482,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a0afb1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a0afb1" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a0afb1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a0afb1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42b7f39" data-id="42b7f39" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -494,7 +494,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e0cd92c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e0cd92c" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e0cd92c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e0cd92c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e54a748" data-id="e54a748" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -506,7 +506,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b1e6eda elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1e6eda" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b1e6eda elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1e6eda" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7bcba5d" data-id="7bcba5d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -518,7 +518,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-33a63fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33a63fa" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-33a63fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33a63fa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bf652a2" data-id="bf652a2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -530,7 +530,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ef24f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ef24f8" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ef24f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ef24f8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49d7c5b" data-id="49d7c5b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -542,7 +542,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a6cc758 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a6cc758" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a6cc758 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a6cc758" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aca655a" data-id="aca655a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -554,7 +554,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d7942ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d7942ff" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d7942ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d7942ff" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-75b5f46" data-id="75b5f46" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -566,7 +566,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-69523fe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69523fe" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-69523fe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69523fe" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-12ac1ef" data-id="12ac1ef" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -578,7 +578,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-cdd664b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cdd664b" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cdd664b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cdd664b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a775991" data-id="a775991" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -590,7 +590,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e367318 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e367318" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e367318 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e367318" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1214ece" data-id="1214ece" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -602,7 +602,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b009a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b009a8" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b009a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b009a8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9450669" data-id="9450669" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -614,7 +614,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a71e9cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a71e9cc" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a71e9cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a71e9cc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3af3689" data-id="3af3689" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
